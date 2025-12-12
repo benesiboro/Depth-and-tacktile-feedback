@@ -1,0 +1,1772 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.4201]
+    Renderer: NVIDIA GeForce GTX 275
+    Vendor:   NVIDIA
+    VRAM:     869 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ma005\Desktop\cintya thesis\3D opti menu green new_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ma005\Desktop\cintya thesis\3D opti menu green new_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ma005\Desktop\cintya thesis\3D opti menu green new_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\ma005\Desktop\cintya thesis\3D opti menu green new_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ma005\Desktop\cintya thesis\3D opti menu green new_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ma005\Desktop\cintya thesis\3D opti menu green new_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ma005\Desktop\cintya thesis\3D opti menu green new_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\ma005\Desktop\cintya thesis\3D opti menu green new_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ma005\Desktop\cintya thesis\3D opti menu green new_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\ma005\Desktop\cintya thesis\3D opti menu green new_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 800x600 60Hz; virtual: 800x600 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.357884 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.477691 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.009599 ms MarkObjects: 0.096383 ms  DeleteObjects: 0.003455 ms)
+
+13:28:08.335: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:28:10.516: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:28:13.053: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.347133 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.498043 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.011135 ms MarkObjects: 0.089855 ms  DeleteObjects: 0.003071 ms)
+
+13:28:15.106: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:28:16.425: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:28:18.078: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.344445 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.450812 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.009983 ms MarkObjects: 0.089087 ms  DeleteObjects: 0.003071 ms)
+
+13:28:20.432: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:28:22.102: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:28:23.704: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.340221 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.463868 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.010367 ms MarkObjects: 0.072191 ms  DeleteObjects: 0.003071 ms)
+
+13:28:25.791: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:28:27.494: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:28:29.413: Cube2 -- (0.1, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.351740 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.466172 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.010367 ms MarkObjects: 0.086015 ms  DeleteObjects: 0.014591 ms)
+
+UnloadTime: 0.332925 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.475003 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.010367 ms MarkObjects: 0.125950 ms  DeleteObjects: 0.003455 ms)
+
+13:29:23.033: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:29:25.337: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:29:27.590: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.352124 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.479611 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.010751 ms MarkObjects: 0.090623 ms  DeleteObjects: 0.003071 ms)
+
+13:29:29.761: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:29:31.464: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:29:33.651: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.345597 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.588666 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.010751 ms MarkObjects: 0.091007 ms  DeleteObjects: 0.003071 ms)
+
+13:29:35.554: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:29:37.006: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:29:39.293: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.345981 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.461180 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.010751 ms MarkObjects: 0.108671 ms  DeleteObjects: 0.003071 ms)
+
+13:29:41.263: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:29:42.999: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:29:45.135: Base -- (-0.4, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.346749 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.467707 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.011135 ms MarkObjects: 0.091775 ms  DeleteObjects: 0.015743 ms)
+
+UnloadTime: 0.344061 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 227.
+Total: 0.473467 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.011135 ms MarkObjects: 0.120958 ms  DeleteObjects: 0.003071 ms)
+
+13:30:55.083: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:30:56.769: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:30:58.623: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.346749 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.523771 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.012671 ms MarkObjects: 0.117118 ms  DeleteObjects: 0.003455 ms)
+
+13:31:00.742: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:31:02.428: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:31:04.432: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.369788 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.411644 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.011519 ms MarkObjects: 0.072959 ms  DeleteObjects: 0.003071 ms)
+
+13:31:06.418: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:31:08.187: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:31:10.374: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.364028 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.418556 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.011519 ms MarkObjects: 0.089087 ms  DeleteObjects: 0.003071 ms)
+
+13:31:13.028: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:31:15.116: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:31:17.236: Base -- (0.1, 0.0, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.339837 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.471547 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.011519 ms MarkObjects: 0.093695 ms  DeleteObjects: 0.014591 ms)
+
+UnloadTime: 0.437756 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 227.
+Total: 0.454652 ms (FindLiveObjects: 0.008447 ms CreateObjectMapping: 0.013823 ms MarkObjects: 0.105983 ms  DeleteObjects: 0.003455 ms)
+
+13:34:29.197: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:34:33.804: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:34:36.492: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.344829 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.454652 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.011903 ms MarkObjects: 0.121726 ms  DeleteObjects: 0.003071 ms)
+
+13:34:38.896: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:34:40.815: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:34:42.769: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.336381 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.469627 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.013823 ms MarkObjects: 0.089087 ms  DeleteObjects: 0.003071 ms)
+
+13:34:44.773: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:34:46.225: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:34:47.894: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.337917 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.457340 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.012287 ms MarkObjects: 0.089087 ms  DeleteObjects: 0.003071 ms)
+
+13:34:50.164: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:34:51.934: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:34:53.536: Cube2 -- (0.0, -0.1, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.379388 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.494971 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.012287 ms MarkObjects: 0.099071 ms  DeleteObjects: 0.038015 ms)
+
+UnloadTime: 0.339453 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.536059 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.012671 ms MarkObjects: 0.126334 ms  DeleteObjects: 0.003455 ms)
+
+13:35:28.610: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:35:30.563: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:35:33.451: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.350972 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.484987 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.012671 ms MarkObjects: 0.126718 ms  DeleteObjects: 0.003071 ms)
+
+13:35:35.420: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:35:37.108: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:35:39.027: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.337149 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.450428 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.013055 ms MarkObjects: 0.093695 ms  DeleteObjects: 0.003071 ms)
+
+13:35:41.164: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:35:43.301: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:35:45.838: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.337149 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.435068 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.012671 ms MarkObjects: 0.087935 ms  DeleteObjects: 0.003071 ms)
+
+13:35:48.342: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:35:50.529: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:35:52.915: Base -- (-0.1, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.337917 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.444668 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.013055 ms MarkObjects: 0.072575 ms  DeleteObjects: 0.014975 ms)
+
+UnloadTime: 0.347901 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.486523 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.013439 ms MarkObjects: 0.096767 ms  DeleteObjects: 0.003071 ms)
+
+13:36:51.762: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:36:54.383: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:36:56.619: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.355580 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.462332 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.015743 ms MarkObjects: 0.091775 ms  DeleteObjects: 0.003071 ms)
+
+13:36:59.240: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:37:01.861: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:37:04.282: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.342525 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.428156 ms (FindLiveObjects: 0.008831 ms CreateObjectMapping: 0.015359 ms MarkObjects: 0.054143 ms  DeleteObjects: 0.003071 ms)
+
+13:37:06.686: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:37:10.075: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:37:12.729: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.348669 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.444668 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.013439 ms MarkObjects: 0.088319 ms  DeleteObjects: 0.003455 ms)
+
+13:37:15.466: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:37:17.336: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:37:19.740: Base -- (-0.8, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.346365 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.431996 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.013823 ms MarkObjects: 0.071423 ms  DeleteObjects: 0.014591 ms)
+
+UnloadTime: 0.348285 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.514939 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.019967 ms MarkObjects: 0.153598 ms  DeleteObjects: 0.007295 ms)
+
+13:40:33.021: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:40:37.562: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:40:41.584: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.355196 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.480763 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.013823 ms MarkObjects: 0.115199 ms  DeleteObjects: 0.003455 ms)
+
+13:40:45.090: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:40:48.679: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:40:51.718: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.392444 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.448892 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.014207 ms MarkObjects: 0.092543 ms  DeleteObjects: 0.003455 ms)
+
+13:40:56.492: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:40:59.213: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:41:01.132: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.357500 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.577147 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.014207 ms MarkObjects: 0.153982 ms  DeleteObjects: 0.003071 ms)
+
+13:41:03.753: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:41:05.873: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:41:08.929: Base -- (0.0, -0.3, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.339069 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.537211 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.016511 ms MarkObjects: 0.111359 ms  DeleteObjects: 0.015359 ms)
+
+UnloadTime: 0.329853 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 227.
+Total: 0.563707 ms (FindLiveObjects: 0.008831 ms CreateObjectMapping: 0.020735 ms MarkObjects: 0.212734 ms  DeleteObjects: 0.003071 ms)
+
+13:41:42.666: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:41:44.904: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:41:46.356: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.370172 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.444668 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.014591 ms MarkObjects: 0.087167 ms  DeleteObjects: 0.003071 ms)
+
+13:41:47.992: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:41:49.728: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:41:51.464: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.345597 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.465404 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.014591 ms MarkObjects: 0.092927 ms  DeleteObjects: 0.003455 ms)
+
+13:41:53.701: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:41:55.504: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:41:57.424: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.348285 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.438140 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.014975 ms MarkObjects: 0.094079 ms  DeleteObjects: 0.003071 ms)
+
+13:41:59.410: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:42:01.398: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:42:03.434: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.342525 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.465404 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.014975 ms MarkObjects: 0.095615 ms  DeleteObjects: 0.014591 ms)
+
+UnloadTime: 0.344061 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.612090 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.019199 ms MarkObjects: 0.124798 ms  DeleteObjects: 0.003071 ms)
+
+13:42:47.121: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:42:49.057: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:42:51.111: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.339837 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.448892 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.014975 ms MarkObjects: 0.092159 ms  DeleteObjects: 0.003071 ms)
+
+13:42:53.482: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:42:55.084: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:42:57.104: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.367484 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.514555 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.015359 ms MarkObjects: 0.089471 ms  DeleteObjects: 0.003455 ms)
+
+13:42:59.725: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:43:01.495: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:43:04.166: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.346749 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.435452 ms (FindLiveObjects: 0.011519 ms CreateObjectMapping: 0.017279 ms MarkObjects: 0.069503 ms  DeleteObjects: 0.004223 ms)
+
+13:43:06.386: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:43:08.155: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:43:10.426: Base -- (0.1, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.395132 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.486523 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.017663 ms MarkObjects: 0.134014 ms  DeleteObjects: 0.017279 ms)
+
+UnloadTime: 3.370723 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.477691 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.021887 ms MarkObjects: 0.099455 ms  DeleteObjects: 0.003455 ms)
+
+13:48:24.618: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:48:27.240: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:48:29.344: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.349437 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.529147 ms (FindLiveObjects: 0.008831 ms CreateObjectMapping: 0.018815 ms MarkObjects: 0.142462 ms  DeleteObjects: 0.003455 ms)
+
+13:48:32.248: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:48:34.118: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:48:35.970: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.330621 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.467707 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.016127 ms MarkObjects: 0.087551 ms  DeleteObjects: 0.003455 ms)
+
+13:48:38.792: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:48:41.512: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:48:43.300: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.341373 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.452348 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.016127 ms MarkObjects: 0.088319 ms  DeleteObjects: 0.003455 ms)
+
+13:48:46.271: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:48:48.157: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:48:50.177: Cube2-3 -- (0.0, -0.7, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.337917 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.466939 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.016127 ms MarkObjects: 0.089855 ms  DeleteObjects: 0.015743 ms)
+
+UnloadTime: 0.333693 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.458492 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.020351 ms MarkObjects: 0.091007 ms  DeleteObjects: 0.003455 ms)
+
+13:49:21.745: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:49:22.914: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:49:24.800: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.339453 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.557947 ms (FindLiveObjects: 0.008831 ms CreateObjectMapping: 0.018815 ms MarkObjects: 0.154750 ms  DeleteObjects: 0.003071 ms)
+
+13:49:26.653: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:49:27.888: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:49:29.592: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.356732 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.462716 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.016895 ms MarkObjects: 0.126334 ms  DeleteObjects: 0.003071 ms)
+
+13:49:31.427: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:49:32.846: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:49:34.148: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.337917 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.510715 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.018815 ms MarkObjects: 0.122878 ms  DeleteObjects: 0.003071 ms)
+
+13:49:35.918: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:49:37.621: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:49:39.190: Cube2-2 -- (0.2, -0.4, 4.5)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.342141 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.482299 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.017279 ms MarkObjects: 0.087551 ms  DeleteObjects: 0.014975 ms)
+
+UnloadTime: 0.336381 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.446972 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.021119 ms MarkObjects: 0.072959 ms  DeleteObjects: 0.003071 ms)
+
+13:50:33.378: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:50:34.763: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:50:36.132: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.350204 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.461180 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.017663 ms MarkObjects: 0.090623 ms  DeleteObjects: 0.003071 ms)
+
+13:50:37.384: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:50:38.753: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:50:40.072: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.339069 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.470779 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.016895 ms MarkObjects: 0.089087 ms  DeleteObjects: 0.003071 ms)
+
+13:50:41.641: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:50:43.060: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:50:45.231: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.339837 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.514555 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.017663 ms MarkObjects: 0.092159 ms  DeleteObjects: 0.003455 ms)
+
+13:50:47.451: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:50:48.953: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:50:50.339: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.339453 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.483835 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.017663 ms MarkObjects: 0.092543 ms  DeleteObjects: 0.015743 ms)
+
+UnloadTime: 0.395132 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.683130 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.024575 ms MarkObjects: 0.332925 ms  DeleteObjects: 0.003455 ms)
+
+13:54:29.844: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:54:32.099: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:54:34.252: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.372860 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.540667 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.021503 ms MarkObjects: 0.129022 ms  DeleteObjects: 0.006911 ms)
+
+13:54:36.155: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:54:37.858: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:54:39.527: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.348285 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.483451 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.018047 ms MarkObjects: 0.097151 ms  DeleteObjects: 0.003071 ms)
+
+13:54:41.664: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:54:43.717: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:54:45.653: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.337917 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.445052 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.018047 ms MarkObjects: 0.087935 ms  DeleteObjects: 0.003455 ms)
+
+13:54:48.424: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:54:49.844: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:54:52.064: Base -- (0.1, -0.4, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.346749 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.544123 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.020351 ms MarkObjects: 0.151678 ms  DeleteObjects: 0.015743 ms)
+
+UnloadTime: 0.366716 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.485755 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.023423 ms MarkObjects: 0.126334 ms  DeleteObjects: 0.003455 ms)
+
+13:55:30.093: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:55:31.528: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:55:33.314: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.356732 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.494203 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.021503 ms MarkObjects: 0.124798 ms  DeleteObjects: 0.007295 ms)
+
+13:55:35.551: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:55:37.054: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:55:38.940: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.350204 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.459260 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.019199 ms MarkObjects: 0.093695 ms  DeleteObjects: 0.003455 ms)
+
+13:55:40.926: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:55:42.797: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:55:44.533: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.365564 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.477691 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.018815 ms MarkObjects: 0.091007 ms  DeleteObjects: 0.003071 ms)
+
+13:55:46.987: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:55:48.823: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:55:50.358: Base -- (0.1, -0.5, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.344829 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.479611 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.018815 ms MarkObjects: 0.095999 ms  DeleteObjects: 0.015359 ms)
+
+UnloadTime: 0.409340 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 227.
+Total: 0.478075 ms (FindLiveObjects: 0.008831 ms CreateObjectMapping: 0.029567 ms MarkObjects: 0.092927 ms  DeleteObjects: 0.004223 ms)
+
+13:56:34.681: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:56:36.000: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+13:56:37.169: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.341373 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.554491 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.021119 ms MarkObjects: 0.152446 ms  DeleteObjects: 0.003455 ms)
+
+13:56:38.838: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:56:40.540: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:56:41.809: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.344061 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.466555 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.020351 ms MarkObjects: 0.090239 ms  DeleteObjects: 0.003071 ms)
+
+13:56:43.996: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:56:45.481: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:56:47.368: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.349820 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.484219 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.019967 ms MarkObjects: 0.125950 ms  DeleteObjects: 0.003071 ms)
+
+13:56:49.454: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:56:51.140: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+13:56:52.310: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.342525 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.518011 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.019583 ms MarkObjects: 0.127486 ms  DeleteObjects: 0.015359 ms)
+
+UnloadTime: 0.366332 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.525307 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.027647 ms MarkObjects: 0.125950 ms  DeleteObjects: 0.007295 ms)
+
+14:00:33.701: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:00:35.688: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:00:37.407: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.341757 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.532603 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.023039 ms MarkObjects: 0.152830 ms  DeleteObjects: 0.003071 ms)
+
+14:00:39.328: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:00:40.747: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:00:42.416: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.342909 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.487675 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.019967 ms MarkObjects: 0.095615 ms  DeleteObjects: 0.003455 ms)
+
+14:00:44.102: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:00:46.022: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:00:48.008: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.388604 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.514555 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.020735 ms MarkObjects: 0.142078 ms  DeleteObjects: 0.003455 ms)
+
+14:00:51.046: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:00:53.216: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:00:55.437: Base -- (-0.1, -0.1, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.340221 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.465788 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.020351 ms MarkObjects: 0.090623 ms  DeleteObjects: 0.014591 ms)
+
+UnloadTime: 0.333693 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 227.
+Total: 0.489979 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.024191 ms MarkObjects: 0.108287 ms  DeleteObjects: 0.003071 ms)
+
+14:01:29.993: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+14:01:31.078: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+14:01:32.381: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at 4easy.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.348285 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.460412 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.020351 ms MarkObjects: 0.093695 ms  DeleteObjects: 0.003071 ms)
+
+14:01:33.933: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:01:35.586: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:01:36.904: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.335997 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.568699 ms (FindLiveObjects: 0.008831 ms CreateObjectMapping: 0.023423 ms MarkObjects: 0.108287 ms  DeleteObjects: 0.003071 ms)
+
+14:01:39.024: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:01:40.210: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:01:41.695: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.347133 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.477691 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.023039 ms MarkObjects: 0.095999 ms  DeleteObjects: 0.003071 ms)
+
+14:01:43.281: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:01:45.184: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:01:46.419: clicked an empty space
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.340221 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.475387 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.021119 ms MarkObjects: 0.087935 ms  DeleteObjects: 0.014207 ms)
+
+UnloadTime: 0.342141 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.478459 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.026495 ms MarkObjects: 0.102911 ms  DeleteObjects: 0.003455 ms)
+
+14:02:34.831: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:02:36.467: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:02:38.487: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.359036 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.582139 ms (FindLiveObjects: 0.007295 ms CreateObjectMapping: 0.021503 ms MarkObjects: 0.164734 ms  DeleteObjects: 0.003455 ms)
+
+14:02:41.141: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:02:43.346: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:02:45.599: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.348285 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.487291 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.021119 ms MarkObjects: 0.109439 ms  DeleteObjects: 0.003455 ms)
+
+14:02:48.036: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:02:50.123: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:02:52.460: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.355580 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.484603 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.021119 ms MarkObjects: 0.109055 ms  DeleteObjects: 0.003455 ms)
+
+14:02:55.114: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:02:56.934: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+14:02:59.288: Base -- (0.0, -0.6, 4.6)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.339069 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.560251 ms (FindLiveObjects: 0.007679 ms CreateObjectMapping: 0.023807 ms MarkObjects: 0.148222 ms  DeleteObjects: 0.015743 ms)
+
