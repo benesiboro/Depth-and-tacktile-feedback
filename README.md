@@ -58,6 +58,6 @@ Each log file contains: Movement time per trial, accuracy, trial timestamps, con
 # Citation
 Lin et al., (2025). Enhancing Menu Interaction in Virtual Reality: The Impact of Depth Perception and Tactile Feedback.The Visual Computer.
 
-# For questions or collaboration inquiries, please contact:
-getrudiscintya@gmail.com
+# Contact
+For questions or collaboration inquiries, please contact: getrudiscintya@gmail.com
    
